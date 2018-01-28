@@ -1,5 +1,5 @@
 
 
-$input = array('233', '132', '111');
+$GHPJ = array('1', '2', '3');
 
-return $input[array_rand($input)];
+echo $GHPJ[array_rand($GHPJ)];
